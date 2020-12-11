@@ -5,7 +5,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b62f56d-232a-4883-bca6-ce50fc01fa5a" name="Default Changelist" comment="configuration and first controller" />
+    <list default="true" id="0b62f56d-232a-4883-bca6-ce50fc01fa5a" name="Default Changelist" comment="correct warning">
+      <change afterPath="$PROJECT_DIR$/templates/nav.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home_pages/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home_pages/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,9 +104,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Elysion" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api_spaceoverflow" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/js" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -108,7 +127,9 @@
       <updated>1605601244238</updated>
       <workItem from="1605601245378" duration="1270000" />
       <workItem from="1607344833002" duration="634000" />
-      <workItem from="1607503297917" duration="3961000" />
+      <workItem from="1607503297917" duration="8530000" />
+      <workItem from="1607585719203" duration="705000" />
+      <workItem from="1607616943467" duration="756000" />
     </task>
     <task id="LOCAL-00001" summary="configuration and first controller">
       <created>1607507087493</created>
@@ -117,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607507087493</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="correct warning">
+      <created>1607507274295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607507274295</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,12 +171,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="configuration and first controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="configuration and first controller" />
+    <MESSAGE value="correct warning" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct warning" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="277" width="424" height="491" key="FileChooserDialogImpl" timestamp="1607503547754">
+    <state x="743" y="277" width="424" height="491" key="FileChooserDialogImpl" timestamp="1607671975754">
       <screen x="0" y="27" width="1920" height="985" />
     </state>
-    <state x="743" y="277" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.985@0.27.1920.985" timestamp="1607503547754" />
+    <state x="743" y="277" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.985@0.27.1920.985" timestamp="1607671975754" />
+    <state x="75" y="255" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1607507339010">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="75" y="255" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.985@0.27.1920.985" timestamp="1607507339010" />
+    <state x="184" y="150" width="672" height="678" key="search.everywhere.popup" timestamp="1607511029447">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="184" y="150" width="672" height="678" key="search.everywhere.popup/0.27.1920.985@0.27.1920.985" timestamp="1607511029447" />
   </component>
 </project>
